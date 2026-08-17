@@ -1,7 +1,5 @@
 # Go Sample Pipelines in Harness
 
-Harness CI Admin Cert Test
-
 Introduction
 ========================
 This repository is a home for snippets of YAML code and a sample hello world server for the Harness CI Community.
